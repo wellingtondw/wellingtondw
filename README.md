@@ -1,5 +1,5 @@
 ## Hello World!
-  I'm **Wellington Lima** 💻🧑🏻‍💼, nice to meet you!
+  I'm **Wellington Lima** 🧑🏻‍💻, nice to meet you!
 
 ### About Me
   I am passionate about learning new technologies or even new ways of doing what I already know, my life goal is to learn something new and improve every day.
@@ -8,6 +8,6 @@
  ### Career 
  
    - 🎓: Graduated in Information Systems from the University Estácio de Sá.
-   - 🧑🏻‍💻: Html, Css, Javascript, Typescript, ReactJS, React Native, NodeJs, always wanting to learning more and better.
+   - 🚀: Html, Css, Javascript, Typescript, ReactJS, React Native, NodeJs, always wanting to learning more and better.
    - 🔧: Visual Studio Code, Github, Android Studio, Figma, Zeplin, among other things...
 
