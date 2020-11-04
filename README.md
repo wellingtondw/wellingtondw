@@ -1,13 +1,7 @@
-## What's up guys!
-  I'm **Wellington Lima** 🧑🏻‍💻, nice to meet you!
 
-### About Me
-  I am passionate about learning new technologies or even new ways of doing what I already know, my life goal is to learn something new and improve every day.
-  I believe that learning is a process and takes time, however, the small rewards that we earn along the way with all the knowledge and experience acquired make this journey totally enjoyable and rewarding. 
-  
- ### Career 
- 
-   - 🎓: Graduated in Information Systems from the University Estácio de Sá.
-   - 🚀: Html, Css, Javascript, Typescript, ReactJS, React Native, NodeJs, always wanting to learning more and better.
-   - 🔧: Visual Studio Code, Github, Android Studio, Figma, Zeplin, among other things...
+## Olá!
+   Eu sou ** Wellington Lima ** 🧑🏻‍💻, prazer em conhecê-lo!
 
+### Sobre mim
+ Sou apaixonado por aprender novas tecnologias ou mesmo novas formas de fazer o que já sei, meu objetivo de vida é aprender algo novo e melhorar a cada dia.
+ Acredito que aprender é um processo e leva tempo, porém, as pequenas recompensas que conquistamos ao longo do caminho com todo o conhecimento e experiência adquiridos tornam esta jornada totalmente agradável e gratificante.
