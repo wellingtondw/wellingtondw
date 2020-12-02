@@ -1,4 +1,4 @@
-## Hello, I'm [Wellington!](https://www.linkedin.com/in/wellington-lima-silva/) 👋
+## Hello, I'm [Wellington!](https://www.linkedin.com/in/wellington-lima-silva/) 👋🏼
 
 
 <a href="https://www.linkedin.com/in/wellington-lima-silva/">
