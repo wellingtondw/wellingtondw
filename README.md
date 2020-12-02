@@ -1,4 +1,4 @@
-## Hola, I'm [Wellington!](https://www.linkedin.com/in/wellington-lima-silva/) 👋
+## Hello, I'm [Wellington!](https://www.linkedin.com/in/wellington-lima-silva/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="wellingtondw" /> </p>
 
@@ -14,7 +14,6 @@
 
 <br/>
 <br/>
-
 
 
 - 🔭 I’m currently working on Arvore de Livros (https://www.arvore.com.br/).
