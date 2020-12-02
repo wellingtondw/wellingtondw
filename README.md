@@ -22,12 +22,11 @@
 - 💬 Ask me about ReactJS or React-Native. 
 
 
-[![Linkedin: well](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-lima-silva/)]()
-[![GitHub well](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/wellingtondw)
+[![Linkedin: well](https://img.shields.io/badge/-well-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-lima-silva/)]()
+[![GitHub well](https://img.shields.io/github/followers/well?label=follow&style=social)](https://github.com/wellingtondw)
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
 
