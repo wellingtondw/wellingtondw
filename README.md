@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtondw&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/wellingtondw">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtondw&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtondw&show_icons=true&theme=light&line_height=27" alt="Wellington's github stats"/>
 </a>
 
 
