@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/wellington-lima-silva/">
-  <img align="left" alt="Wellington's Linkdein" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1612489407~hmac=24f42aa52d7e1668945284d926812ccc?token=exp=1611952743~hmac=2da1c7ce2e71610740f846ff7cb71cd4" />
+  <img align="left" alt="Wellington's Linkdein" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1612489407~hmac=24f42aa52d7e1668945284d926812ccc" />
 </a>
 <a href="https://github.com/wellingtondw">
   <img align="left" alt="Wellington's Github" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1612489440~hmac=fb2aec94b25da510f75df80104d12c18" />
