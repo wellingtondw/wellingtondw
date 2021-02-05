@@ -2,13 +2,13 @@
 
 
 <a href="https://www.linkedin.com/in/wellington-lima-silva/">
-  <img align="left" alt="Wellington's Linkdein" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611952743~hmac=2da1c7ce2e71610740f846ff7cb71cd4" />
+  <img align="left" alt="Wellington's Linkdein" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1612489407~hmac=24f42aa52d7e1668945284d926812ccc?token=exp=1611952743~hmac=2da1c7ce2e71610740f846ff7cb71cd4" />
 </a>
 <a href="https://github.com/wellingtondw">
-  <img align="left" alt="Wellington's Github" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1611952766~hmac=cd9c9bfc9ffe010b72e70045db118452" />
+  <img align="left" alt="Wellington's Github" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1612489440~hmac=fb2aec94b25da510f75df80104d12c18" />
 </a>
 <a href="https://www.facebook.com/wellington.wls.1/">
-  <img align="left" alt="Wellington's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733547.svg?token=exp=1611952805~hmac=e243b70960b09b93c51ebd607fdf577a" />
+  <img align="left" alt="Wellington's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/179/179319.svg?token=exp=1612489482~hmac=0acb4bafc678876cfdd8cfc73fcb3ef2" />
 </a>
 
 <br/>
