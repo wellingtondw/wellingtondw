@@ -2,13 +2,13 @@
 
 
 <a href="https://www.linkedin.com/in/wellington-lima-silva/">
-  <img align="left" alt="Wellington's Linkdein" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1612489407~hmac=24f42aa52d7e1668945284d926812ccc" />
+  <img align="left" alt="Wellington's Linkdein" width="22px" src="https://res.cloudinary.com/dyxcgmvy9/image/upload/v1612893704/icons/linkedin_invnjb.svg" />
 </a>
 <a href="https://github.com/wellingtondw">
-  <img align="left" alt="Wellington's Github" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1612489440~hmac=fb2aec94b25da510f75df80104d12c18" />
+  <img align="left" alt="Wellington's Github" width="22px" src="https://res.cloudinary.com/dyxcgmvy9/image/upload/v1612893704/icons/github_xlfub6.svg" />
 </a>
 <a href="https://www.facebook.com/wellington.wls.1/">
-  <img align="left" alt="Wellington's Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/179/179319.svg?token=exp=1612489482~hmac=0acb4bafc678876cfdd8cfc73fcb3ef2" />
+  <img align="left" alt="Wellington's Facebook" width="22px" src="https://res.cloudinary.com/dyxcgmvy9/image/upload/v1612893704/icons/facebook_hyypvb.svg" />
 </a>
 
 <br/>
