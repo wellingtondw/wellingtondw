@@ -15,9 +15,9 @@
 <br/>
 
 
-- 🌳 I’m currently working on Arvore (https://www.arvore.com.br/).
+- 🌳 I’m currently working on Solides (https://solides.com.br/).
 - 🌱 I’m currently learning more about NextJS.
-- 💬 Ask me about ReactJS or React-Native. 
+- 💬 Ask me about ReactJS or React-Native.
 
 **Stats:**  
 
