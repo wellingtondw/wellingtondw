@@ -15,8 +15,8 @@
 <br/>
 
 
-- 🌳 I’m currently working on Solides (https://solides.com.br/).
-- 🌱 I’m currently learning more about NextJS.
+- 🌳 I’m currently working on Contraktor (https://contraktor.com.br/).
+- 🌱 I’m currently learning more about NextJS and NodeJS.
 - 💬 Ask me about ReactJS or React-Native.
 
 **Stats:**  
